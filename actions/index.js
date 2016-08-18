@@ -1,4 +1,4 @@
-//it's acctrully action creator
+//it's actually action creator
 let nextTodoId = 0
 export const addTodo = (text) => {
   return {
